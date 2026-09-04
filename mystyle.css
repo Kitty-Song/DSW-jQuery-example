@@ -20,3 +20,10 @@ img{
 .border{
 	border: 25px solid black;
 }
+
+.gone{
+	display: none;
+}
+.font{
+	font-family: courier;
+}
